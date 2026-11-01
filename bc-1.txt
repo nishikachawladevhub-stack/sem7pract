@@ -1,0 +1,83 @@
+# BLOCKCHAIN PRACTICAL 1
+## Create Your Own Wallet Using MetaMask
+
+**Aim:** To create a cryptocurrency wallet using MetaMask for crypto transactions.
+
+### Requirements
+- Laptop/PC
+- Google Chrome
+- Internet connection
+- MetaMask browser extension
+
+### Step-by-Step Procedure
+
+**Step 1: Open MetaMask**
+1. Open Google Chrome.
+2. Visit https://metamask.io/
+3. Click on Download.
+4. Select Google Chrome.
+
+**Step 2: Install MetaMask**
+1. Open the Chrome Web Store.
+2. Click on Add to Chrome.
+3. Click Add Extension.
+4. Open the MetaMask extension.
+
+**Step 3: Create a Wallet**
+1. Select Create a new wallet.
+2. Follow the on-screen instructions.
+3. Accept the required terms.
+
+**Step 4: Set Password**
+1. Enter a strong password.
+2. Confirm the password.
+3. Continue with the setup.
+
+**Step 5: Secure Recovery Phrase**
+1. MetaMask generates a Secret Recovery Phrase.
+2. Write it down and store it securely offline.
+3. Confirm the phrase as instructed.
+4. Never share the phrase with anyone.
+
+**Step 6: Open Wallet Dashboard**
+1. After setup, the wallet dashboard appears.
+2. Account 1 is displayed.
+3. The public wallet address appears below the account name.
+4. Buy, Swap, Send and Receive options are available.
+
+**Step 7: Copy Wallet Address**
+1. Click the copy icon beside the wallet address.
+2. The public address gets copied.
+3. This address can be shared to receive cryptocurrency.
+
+**Step 8: View Receiving Address**
+1. Click the Receive button.
+2. The Receiving Address screen opens.
+3. Select Ethereum from the network list.
+
+**Step 9: View QR Code**
+1. Click the QR code icon beside Ethereum.
+2. The receiving QR code appears.
+3. The QR code represents the public wallet address.
+4. It can be scanned by someone sending cryptocurrency.
+
+**Step 10: Explore Send Option**
+1. Return to the wallet dashboard.
+2. Click Send.
+3. Observe the recipient address and transaction interface.
+4. Do not confirm or submit a real transaction for this practical.
+
+**Step 11: View Activity**
+1. Open the Activity section.
+2. Observe the wallet's transaction history.
+3. No transaction is required for this wallet-creation practical.
+
+### Result
+Successfully created a cryptocurrency wallet using MetaMask, obtained the public wallet address, viewed the receiving QR code and explored the Send and Receive functionalities.
+
+### Important Security Points
+- Never share your Secret Recovery Phrase.
+- Never share your private key or password.
+- Share only your public wallet address when receiving cryptocurrency.
+- Always verify the blockchain network before transferring funds.
+- Never approve an unknown transaction.
